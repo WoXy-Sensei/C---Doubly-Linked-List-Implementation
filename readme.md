@@ -1,6 +1,5 @@
 # C++ Two-Way Linked List Implementation
 
-![Project Preview](project_preview.png)
 
 ## About the Project
 
